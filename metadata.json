@@ -1,0 +1,6 @@
+{
+  "name": "Shree Hari Physio Care",
+  "description": "Premier Physiotherapy Clinic & Rehabilitation Center in Bhiwadi, Rajasthan. Specialized in Orthopedic, Neuro & Sports Rehabilitation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
